@@ -21,8 +21,8 @@ For Windows and Mac users, you can follow this [link](https://www.python.org/dow
 This page usually detects your OS automatically and suggests the latest stable release on the top of the page.
 
 ## Text Editor
-We will need a text editor to write our code in. Sublime Text 3 is strongly recommended for beginners, as it is a fairly simple tool to use.
-You can download it from [Sublime Text website](https://www.sublimetext.com/).
+We will need a text editor to write our code in. Atom or Sublime Text 3 are strongly recommended for beginners, as they are fairly simple tools to use.
+Download [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) from their websites.
 
 ## Operating System
 It is highly recommended that you use **Linux** as it is the defacto environment among the programming development community. 
