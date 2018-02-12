@@ -24,6 +24,8 @@ This page usually detects your OS automatically and suggests the latest stable r
 We will need a text editor to write our code in. Atom or Sublime Text 3 are strongly recommended for beginners, as they are fairly simple tools to use.
 Download [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) from their websites.
 
+You can follow the instructions on the following links to install [Atom](http://tipsonubuntu.com/2016/08/05/install-atom-text-editor-ubuntu-16-04/) or [Sublime](https://www.sublimetext.com/docs/3/linux_repositories.html) on Ubuntu, using the terminal.
+
 ## Operating System
 It is highly recommended that you use **Linux** as it is the defacto environment among the programming development community. 
 It is much easier to find help for problems on a Linux system than on a Mac or Windows system.
